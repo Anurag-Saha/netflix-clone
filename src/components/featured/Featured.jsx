@@ -35,10 +35,9 @@ export default function Featured({ type }) {
           alt=""
         />
         <span className="desc">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
-          adipisci repellendus eum quasi illo, velit numquam, maxime tempora
-          sint deleniti, aliquid qui? Facilis, adipisci! Ratione hic repudiandae
-          temporibus eum earum?
+          Neo, a computer programmer and hacker, has always questioned the
+          reality of the world around him. His suspicions are confirmed when
+          Morpheus, a rebel leader, contacts him and reveals the truth to him.
         </span>
         <div className="buttons">
           <button className="play">
