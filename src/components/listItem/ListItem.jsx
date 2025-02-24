@@ -9,8 +9,7 @@ import {
 
 export default function ListItem(index) {
   const [isHovered, setIsHovered] = useState(false);
-  const trailer =
-    "https://www.youtube.com/embed/q3lX2p_Uy9I?rel=0";
+  const trailer = "https://www.youtube.com/embed/q3lX2p_Uy9I?rel=0";
   return (
     <div
       className="listItem"
