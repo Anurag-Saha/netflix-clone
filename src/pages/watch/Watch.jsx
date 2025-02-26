@@ -9,7 +9,7 @@ export default function Watch() {
             <ArrowBackOutlined/>
             Home
         </div>
-      <video className="video" autoPlay progress controls src="https://www.youtube.com/embed/p4sNVNL5xhc" />
+      <video className="video" autoPlay progress controls src="https://videos.pexels.com/video-files/30442221/13045784_2560_1440_30fps.mp4" />
     </div>
   )
 }
